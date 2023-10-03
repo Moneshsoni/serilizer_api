@@ -23,3 +23,7 @@ Things you may want to cover:
 
 * ...
 # serilizer_api
+
+#Add ssh key with git hub path
+
+git remote add origin git@github.com:Moneshsoni/serilizer_api.git
